@@ -8,7 +8,7 @@
 
 ## ⚠️ DEADLINE NOTICE
 
-> 🗓️ **Submission Deadline: April 29, 2026 (Wednesday)**  
+> 🗓️ **Submission Deadline: April 30, 2026 **  
 > ⏰ Late submissions may not be accepted. Ensure all files are pushed before the deadline.
 
 ---
